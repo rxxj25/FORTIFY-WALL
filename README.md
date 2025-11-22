@@ -1,4 +1,4 @@
-# FortifyWall - Infinite Protection, Intelligent Detection
+# Advanced Web Application Firewall - Infinite Protection, Intelligent Detection
 
 It is an Advanced Web Application Firewall (WAF) that protects web applications from known threats such as SQL injection, Cross-Site Scripting (XSS), and other similar attacks by filtering and monitoring HTTP traffic between the application and the Internet.
 
@@ -118,10 +118,10 @@ Host: www.example.com
 
 bash
 ```
-git clone https://github.com/rxxj25/FORTIFY-WALL.git
+git clone https://github.com/keusuanl-sec/Advanced-Web-Application-Firewall.git
 ```
 ```
-cd FORTIFY-WALL
+cd Advanced-Web-Application-Firewall
 ```
 
 2. Install dependencies:
